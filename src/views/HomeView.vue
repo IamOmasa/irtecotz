@@ -10,8 +10,8 @@
             </span>
             <h1 class="hero-title mb-3">Welcome to<br><span>IRTECO</span></h1>
             <p class="hero-lead mb-4">
-              IRTECO undertakes irrigation management and economic empowerment roles,
-              providing technical and financial advice to smallholder farmers in Tanzania.
+              IRTECO undertakes water resources management and economic empowerment roles,
+              providing technical and financial advice to smallholder farmers and communities in Tanzania.
             </p>
             <div class="d-flex flex-wrap gap-3">
               <router-link to="/about" class="btn-hp">Read More</router-link>
