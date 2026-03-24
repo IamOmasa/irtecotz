@@ -118,8 +118,8 @@ const whoCards = [
 
 const services = [
   { title: 'Agriculture Training',           desc: 'Practical field-oriented training programs covering crop production, financial management and marketing.',        img: 'https://irteco.netlify.app/assets/img/services/12.jpg', icon: 'bi bi-mortarboard-fill' },
-  { title: 'Farm Structure Design',          desc: 'Planning and construction: irrigation, dams, wells, greenhouses, fish ponds and storage houses.',               img: 'https://irteco.netlify.app/assets/img/services/13.jpg', icon: 'bi bi-tools' },
-  { title: 'Supply Agriculture Inputs',      desc: 'Optimum fertilizers, seeds, herbicides, insecticides, irrigation pipes and greenhouse nets.',                   img: 'https://irteco.netlify.app/assets/img/services/4.jpg',  icon: 'bi bi-box-seam-fill' },
+  { title: 'Resource Efficient Agriculture (REA) and Marketing Research',          desc: 'Planning in production, marketing, value adding and policies',               img: 'https://irteco.netlify.app/assets/img/services/13.jpg', icon: 'bi bi-tools' },
+  { title: 'Integrated Water Resources Management',      desc: 'Water resource planning and management strategies for sustainable agriculture.',                   img: 'https://irteco.netlify.app/assets/img/services/4.jpg',  icon: 'bi bi-box-seam-fill' },
   { title: 'Marketing Agriculture Products', desc: 'Connecting farmers to buyers locally and internationally through our Market Map network.',                      img: 'https://irteco.netlify.app/assets/img/services/1.jpg',  icon: 'bi bi-shop' },
   { title: 'Farm Management & Consultancy',  desc: 'Professional consultancy to help investors manage operations efficiently and maximise yields.',                  img: 'https://irteco.netlify.app/assets/img/services/3.jpg',  icon: 'bi bi-clipboard2-data-fill' },
   { title: 'Digital Farming',                desc: 'Digital platforms and systems that solve farm business challenges and support agritech entrepreneurs.',          img: 'https://irteco.netlify.app/assets/img/services/2.jpg',  icon: 'bi bi-cpu-fill' },
