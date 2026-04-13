@@ -30,7 +30,7 @@
           <h5>Contact Us</h5>
           <div class="fci"><i class="bi bi-geo-alt-fill"></i> P.O BOX 6603, Morogoro, Tanzania</div>
           <div class="fci"><i class="bi bi-telephone-fill"></i> +255 787 583 242</div>
-          <div class="fci"><i class="bi bi-envelope-fill"></i> irteco@yahoo.com</div>
+          <div class="fci"><i class="bi bi-envelope-fill"></i> irtecotz@yahoo.com</div>
           <div class="d-flex gap-2 mt-3">
             <a href="#" class="soc-btn"><i class="bi bi-facebook"></i></a>
             <a href="#" class="soc-btn"><i class="bi bi-twitter-x"></i></a>
